@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckRenderOppK3", "CheckRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K3Import", "K3Import\K3Import.csproj", "{6FA4D33A-7FD7-4F54-9553-DEFBF02C302C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMGJJFactByLing", "JMGJJFactByLing\JMGJJFactByLing.csproj", "{B4B5DFA8-AD91-488D-8888-33D54B14FBFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FA4D33A-7FD7-4F54-9553-DEFBF02C302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA4D33A-7FD7-4F54-9553-DEFBF02C302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA4D33A-7FD7-4F54-9553-DEFBF02C302C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B5DFA8-AD91-488D-8888-33D54B14FBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B5DFA8-AD91-488D-8888-33D54B14FBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B5DFA8-AD91-488D-8888-33D54B14FBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B5DFA8-AD91-488D-8888-33D54B14FBFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
