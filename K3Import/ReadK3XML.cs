@@ -50,7 +50,7 @@ namespace K3Import
                         dt.Rows.Add(dr);
                         //limit--;
                     }
-                    //if (limit == 0) { break; }
+  
                 }
                 return dt;
             }
